@@ -1,0 +1,29 @@
+.card{
+    border: blueviolet;
+    outline: none;
+
+}
+.card p{
+    color:rgba(0, 0, 0, 0.719);
+}
+.circle{
+    height: 70px;
+    width: 70px;
+    background-color: gray;
+    color:black;
+    padding: 0px;
+    font-size: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-bottom: 20px;
+
+}
+h1{
+    color:blueviolet;
+}
+h4{
+    color:blueviolet;
+}
+.btn btn-dark{
+    color:blueviolet;
+}
